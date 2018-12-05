@@ -268,7 +268,7 @@
     "STUDIO_SHORT_NAME": "Studio", 
     "SUPPORT_SITE_LINK": "", 
     "SYSLOG_SERVER": "", 
-    "TECH_SUPPORT_EMAIL": "technical@example.com", 
+    "TECH_SUPPORT_EMAIL": "elearning@camara.org", 
     "TIME_ZONE": "America/New_York", 
     "UNIVERSITY_EMAIL": "university@example.com", 
     "VIDEO_IMAGE_MAX_AGE": 31536000, 

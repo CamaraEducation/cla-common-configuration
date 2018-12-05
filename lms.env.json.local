@@ -470,7 +470,7 @@
     "STUDIO_SHORT_NAME": "Studio", 
     "SUPPORT_SITE_LINK": "", 
     "SYSLOG_SERVER": "", 
-    "TECH_SUPPORT_EMAIL": "googledeveloper@camara.ie", 
+    "TECH_SUPPORT_EMAIL": "elearning@camara.org", 
     "TIME_ZONE": "America/New_York", 
     "UNIVERSITY_EMAIL": "university@example.com", 
     "VIDEO_CDN_URL": {
