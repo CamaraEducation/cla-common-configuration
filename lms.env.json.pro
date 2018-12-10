@@ -290,7 +290,7 @@
         "domain_prefix":"ireland-prd",
         "university": "Ireland",
         "platform_name": "Camara Learning Academy - Ireland",
-        "SITE_NAME": "ireland-prd.learn.camara.org",
+        "SITE_NAME": "ireland.learn.camara.org",
         "course_org_filter": "camara-ireland",
         "css_overrides_file": "",
         "logo_image_url": "",
